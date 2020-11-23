@@ -280,3 +280,21 @@ PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with
 this program. If not, see http://www.gnu.org/licenses/.
+
+# Citation
+
+[![DOI](https://zenodo.org/badge/315341535.svg)](https://zenodo.org/badge/latestdoi/315341535)
+
+BibTex:
+```
+@software{dominik_j_otto_2020_4287079,
+  author       = {Dominik J. Otto},
+  title        = {fraunhofer-izi/gene\_expression\_deconvolution: v1.0},
+  month        = nov,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.4287079},
+  url          = {https://doi.org/10.5281/zenodo.4287079} Titel anhand dieser DOI in Citavi-Projekt übernehmen
+}
+```
