@@ -1,0 +1,50 @@
+.DS_Store
+*.texe
+*.pyc
+*.pdf
+.ipynb_checkpoints
+__pycache__/
+slurmlogs/
+
+# python pickel
+*.pkl
+
+# theano compile dirs
+.theano*
+
+.slurmlogs
+_rslurm*/
+
+# R
+*.tmp.R
+
+# LaTeX:
+tex/build/
+Thesis/build/
+*.synctex
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+!Thesis/figures/
